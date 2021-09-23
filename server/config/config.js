@@ -5,8 +5,8 @@ const config = {
     },
     default: {
         SECRET: "MYDMINPASSWORD123",
-        // DATABASE: "mongodb://localhost:27017/sarashcoll"
-        DATABASE: "mongodb+srv://sarashteam:Fritzsmath@cluster0.dyaqp.mongodb.net/SarashDB?retryWrites=true&w=majority"
+        DATABASE: "mongodb://localhost:27017/sarashcoll"
+        
     }
 }
 
